@@ -1,0 +1,8 @@
+# Site settings
+title: Samsung Apple Store Uganda - The Best Deals in Kampala
+description: Your official source for original New and Used Apple iPhones and Samsung Galaxy devices in Uganda. Best deals, 6-Month Warranty, and instant WhatsApp support.
+email: info@samsungapplestoreug.com
+url: "https://wambugaivan-oss.github.io/uganda-tech-store" # This should be your public website URL
+
+# Build settings
+future: false
